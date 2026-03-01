@@ -76,7 +76,7 @@ If there's no proof-log for that date:
 
 ## Part of cc-toolkit
 
-One of 30 free tools for understanding your Claude Code usage.
+One of 32 free tools for understanding your Claude Code usage.
 → [yurukusa.github.io/cc-toolkit](https://yurukusa.github.io/cc-toolkit/)
 
 ## License
